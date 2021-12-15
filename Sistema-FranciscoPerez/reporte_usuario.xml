@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<USUARIO>
+  <usuarios>
+    <nombre>Ventas Francisco</nombre>
+    <correo>Ventasinformaticas@gmail.com</correo>
+    <usuario>admin</usuario>
+    <clave>21232f297a57a5a743894a0e4a801fc3</clave>
+  </usuarios>
+  <usuarios>
+    <nombre>Francisco Perez</nombre>
+    <correo>franc2021@gmail.com</correo>
+    <usuario>franc</usuario>
+    <clave>827ccb0eea8a706c4c34a16891f84e7b</clave>
+  </usuarios>
+  <usuarios>
+    <nombre>Ariadna Ramirez</nombre>
+    <correo>Arii420@gmail.com</correo>
+    <usuario>ariadna</usuario>
+    <clave>827ccb0eea8a706c4c34a16891f84e7b</clave>
+  </usuarios>
+</USUARIO>

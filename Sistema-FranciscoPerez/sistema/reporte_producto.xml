@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<PRODUCTOS>
+  <producto>
+    <descripcion>Laptop lenovo</descripcion>
+    <proveedor>1</proveedor>
+    <precio>1560.00</precio>
+    <existencia>49</existencia>
+  </producto>
+  <producto>
+    <descripcion>Teclado</descripcion>
+    <proveedor>1</proveedor>
+    <precio>2500.00</precio>
+    <existencia>79</existencia>
+  </producto>
+  <producto>
+    <descripcion>Impresora</descripcion>
+    <proveedor>1</proveedor>
+    <precio>800.00</precio>
+    <existencia>10</existencia>
+  </producto>
+  <producto>
+    <descripcion>Mouse</descripcion>
+    <proveedor>3</proveedor>
+    <precio>1500.00</precio>
+    <existencia>5</existencia>
+  </producto>
+  <producto>
+    <descripcion>USB</descripcion>
+    <proveedor>3</proveedor>
+    <precio>100.00</precio>
+    <existencia>50</existencia>
+  </producto>
+</PRODUCTOS>

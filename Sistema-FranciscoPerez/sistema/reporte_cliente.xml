@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<CLIENTES>
+  <cliente>
+    <nombre>Libia Lopez</nombre>
+    <telefono>2147483647</telefono>
+    <direccion>Trinidad de las huertas</direccion>
+  </cliente>
+  <cliente>
+    <nombre>Roberto Pantoja</nombre>
+    <telefono>2147483647</telefono>
+    <direccion>Atzompa</direccion>
+  </cliente>
+</CLIENTES>
